@@ -3,9 +3,10 @@
 Automatically send discord messages
 
 # Setup
-Install python https://www.youtube.com/watch?v=YKSpANU8jPE (Make sure "ADD TO PATH" is checked)
+# Install python
+ https://www.youtube.com/watch?v=YKSpANU8jPE (Make sure "ADD TO PATH" is checked)
 
-Config:
+# Config:
 
 Step 1:
 
@@ -17,7 +18,7 @@ Step 3:
 
 Replace "message that will be sent here" With the message you want. (Make sure its encoated in quotations (") )
 
-Main.py:
+# Main.py:
 
 Step 4:
 
